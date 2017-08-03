@@ -1,0 +1,15 @@
+{
+"instructions":[
+	{
+		"Entity":"bar",
+		"BuySell":"S",
+		"AgreedFx":"0.22",
+		"Currency":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"InstructionDate":"05 Jan 2016",
+		"SettlementDate":"07 Jan 2016",
+		"Units":"450",
+		"PricePerUnit":"150.5"
+	}
+	]
+}
+

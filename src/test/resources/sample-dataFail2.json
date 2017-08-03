@@ -1,0 +1,15 @@
+{
+"instructions":[
+	{
+		"Entity":"bar",
+		"BuySell":"S",
+		"AgreedFx":"0",
+		"Currency":"AED",
+		"InstructionDate":"05 Jan 2016",
+		"SettlementDate":"07 Jan 2016",
+		"Units":"1",
+		"PricePerUnit":"1"
+	}
+	]
+}
+

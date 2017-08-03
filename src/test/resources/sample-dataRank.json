@@ -1,0 +1,56 @@
+{
+"instructions":[
+	{
+		"Entity":"foo",
+		"BuySell":"B",
+		"AgreedFx":"1",
+		"Currency":"USD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"1",
+		"PricePerUnit":"10"
+	},
+	{
+		"Entity":"foo",
+		"BuySell":"B",
+		"AgreedFx":"1",
+		"Currency":"USD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"1",
+		"PricePerUnit":"10"
+	},
+	{
+		"Entity":"foo50",
+		"BuySell":"B",
+		"AgreedFx":"1",
+		"Currency":"USD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"1",
+		"PricePerUnit":"50"
+	},
+	
+	{
+		"Entity":"foo30",
+		"BuySell":"S",
+		"AgreedFx":"1",
+		"Currency":"USD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"1",
+		"PricePerUnit":"30"
+	},
+	{
+		"Entity":"foo40",
+		"BuySell":"S",
+		"AgreedFx":"1",
+		"Currency":"USD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"1",
+		"PricePerUnit":"40"
+	}
+	]
+}
+

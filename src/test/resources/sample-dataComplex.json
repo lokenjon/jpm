@@ -1,0 +1,105 @@
+{
+"instructions":[
+	{
+		"Entity":"foo",
+		"BuySell":"B",
+		"AgreedFx":"0.50",
+		"Currency":"SGD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"200",
+		"PricePerUnit":"100.25"
+	},
+	{
+		"Entity":"bar",
+		"BuySell":"S",
+		"AgreedFx":"0.22",
+		"Currency":"AED",
+		"InstructionDate":"05 Jan 2016",
+		"SettlementDate":"07 Jan 2016",
+		"Units":"450",
+		"PricePerUnit":"150.5"
+	},
+	{
+		"Entity":"foo",
+		"BuySell":"S",
+		"AgreedFx":"0.50",
+		"Currency":"SGD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"200",
+		"PricePerUnit":"100.25"
+	},
+	{
+		"Entity":"foo",
+		"BuySell":"S",
+		"AgreedFx":"1.0",
+		"Currency":"USD",
+		"InstructionDate":"03 Jan 2016",
+		"SettlementDate":"04 Jan 2016",
+		"Units":"300",
+		"PricePerUnit":"125"
+	},
+	{
+		"Entity":"aaa",
+		"BuySell":"B",
+		"AgreedFx":"1.0",
+		"Currency":"USD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"200",
+		"PricePerUnit":"100.25"
+	},
+	{
+		"Entity":"bbb",
+		"BuySell":"S",
+		"AgreedFx":"0.22",
+		"Currency":"AED",
+		"InstructionDate":"05 Jan 2016",
+		"SettlementDate":"07 Jan 2016",
+		"Units":"450",
+		"PricePerUnit":"150.5"
+	},
+	{
+		"Entity":"aaa",
+		"BuySell":"B",
+		"AgreedFx":"0.50",
+		"Currency":"SGD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"200",
+		"PricePerUnit":"100.25"
+	},
+	{
+		"Entity":"foo",
+		"BuySell":"S",
+		"AgreedFx":"1.0",
+		"Currency":"USD",
+		"InstructionDate":"05 Feb 2016",
+		"SettlementDate":"07 Feb 2016",
+		"Units":"300",
+		"PricePerUnit":"160.5"
+	},
+	{
+		"Entity":"foo",
+		"BuySell":"B",
+		"AgreedFx":"0.50",
+		"Currency":"SGD",
+		"InstructionDate":"01 Jan 2016",
+		"SettlementDate":"02 Jan 2016",
+		"Units":"200",
+		"PricePerUnit":"100.25"
+	},
+	{
+		"Entity":"bar",
+		"BuySell":"S",
+		"AgreedFx":"0.22",
+		"Currency":"AED",
+		"InstructionDate":"05 Jan 2016",
+		"SettlementDate":"07 Jan 2016",
+		"Units":"450",
+		"PricePerUnit":"150.5"
+	}
+	]
+}
+
